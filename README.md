@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janhavi Kadam</h1>
-<h3 align="center">I am final student at Rizvi College of Engineering for Computer Science. I am a very creative person who is a fast learner and always eager to learn more.</h3>
+
 
 - 📫 How to reach me: **janhavi@eng.rizvi.edu.in**
 
